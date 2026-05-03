@@ -2,22 +2,35 @@
 
 AI-powered maternal health monitoring system for reducing pregnancy complications through real-time risk assessment.
 
-## Features
+## 📌 Overview
 
-- Real-time CTG waveform visualization
-- Live alerts dashboard with risk stratification
-- Mobile-optimized field data entry
-- Geographic risk heatmap
-- **ML-powered risk assessment** using Random Forest Classifier
-- Clinical recommendations based on vitals
-- Confidence scores and probability distributions
+Birth Guard Intelligence is a smart healthcare project focused on enhancing pregnancy and newborn care using modern technology.  
+The system helps in monitoring important health information, managing records, and providing quick access to essential healthcare support.
 
-## Tech Stack
+---
+## 🚀 Features
 
-- **Frontend**: HTML5, CSS3 (Glassmorphism), Vanilla JavaScript
-- **Backend**: Python Flask
-- **Fonts**: Google Fonts (Inter), Font Awesome 6.0
-- **APIs**: RESTful endpoints for alerts and vitals
+- Smart health monitoring system
+- Maternal and newborn data management
+- User-friendly interface
+- Secure information handling
+- Real-time health tracking
+- Responsive and clean UI
+- 
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Vite
+
+---
+
+## 📸 Project Screenshot
+
+![Project Screenshot](./project.png)
+
+---
+
 
 ## Setup
 
