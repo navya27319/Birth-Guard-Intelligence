@@ -27,7 +27,12 @@ The system helps in monitoring important health information, managing records, a
 
 ## 📸 Project Screenshot
 
-![Project Screenshot](./project.png)
+![Project Screenshot](./birthguardintelligence.png)
+![Project Screenshot](./birthguardintelligence1.png)
+![Project Screenshot](./birthguardintelligence2.png)
+![Project Screenshot](./birthguardintelligence3.png)
+
+
 
 ---
 
