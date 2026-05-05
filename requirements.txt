@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flask==3.0.0
 flask-cors==4.0.0
 flask-sqlalchemy==3.1.1
@@ -6,3 +7,13 @@ flask-limiter==4.1.1
 scikit-learn==1.3.2
 numpy==1.26.2
 werkzeug==3.1.3
+=======
+Flask==3.0.0
+flask-cors==4.0.0
+flask-sqlalchemy==3.1.1
+flask-jwt-extended==4.7.1
+flask-limiter==4.1.1
+scikit-learn==1.3.2
+numpy==1.26.2
+werkzeug==3.1.3
+>>>>>>> 9bb3e26e38b4e8a35de943457524a5215c876960
