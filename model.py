@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 ML Model for Maternal Health Risk Assessment
 Random Forest Classifier with expanded synthetic training data
@@ -110,7 +110,7 @@ class MaternalHealthModel:
         return recs or ["All vitals within normal range"]
 
 maternal_model = MaternalHealthModel()
-=======
+
 """
 ML Model for Maternal Health Risk Assessment
 Random Forest Classifier with expanded synthetic training data
@@ -222,4 +222,4 @@ class MaternalHealthModel:
         return recs or ["All vitals within normal range"]
 
 maternal_model = MaternalHealthModel()
->>>>>>> 9bb3e26e38b4e8a35de943457524a5215c876960
+
