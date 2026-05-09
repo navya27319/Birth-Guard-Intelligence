@@ -547,6 +547,6 @@ with app.app_context():
     db.create_all()
     seed_demo_data()
 
-if __name__ == '__main__':
-    app.run(debug=False, host='0.0.0.0', port=5000)
->>>>>>> 9bb3e26e38b4e8a35de943457524a5215c876960
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
