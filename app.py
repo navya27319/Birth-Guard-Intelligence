@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 BirthGuard Intelligence — Flask Backend
 Features: SQLite DB, JWT Auth, Rate Limiting, Input Validation, Logging
@@ -286,7 +286,7 @@ def mongo_test():
     return "MongoDB Working"
 if __name__ == '__main__':
     app.run(debug=False, host='0.0.0.0', port=5000)
-=======
+
 """
 BirthGuard Intelligence — Flask Backend
 Features: SQLite DB, JWT Auth, Rate Limiting, Input Validation, Logging
