@@ -32,7 +32,11 @@ logger = logging.getLogger(__name__)
 
 # ── App Setup ─────────────────────────────────────────────────────────────────
 load_dotenv()
-app = Flask(__name__, static_folder='.')
+app = Flask(
+    __name__,
+    static_folder='static',
+    template_folder='templates'
+)
 app.config.update(
     SECRET_KEY=os.environ.get('SECRET_KEY', 'dev-secret-change-in-prod'),
     JWT_SECRET_KEY=os.environ.get('JWT_SECRET_KEY', 'jwt-secret-change-in-prod'),
